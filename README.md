@@ -1,4 +1,4 @@
-# recirando-layout
+# LandingPage-02
 
 Trata-se de um desafio do curso Explorer da Rocketseat, nesse desafio o objetivo era recriar uma aplicação, a partir de um layout pronto no Figma.
 
